@@ -1,0 +1,39 @@
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    margin-bottom: 0.5rem;
+}
+
+.logo>i {
+  font-size: 8rem;
+  color: var(--theme);
+}
+
+.title {
+    font-size: 4rem;
+    color: var(--secondary);
+}
+
+.partition {
+    width: 30rem;
+    border-top: 0.1rem solid var(--border-light);
+}
+
+.paragraph {
+    color: var(--secondary);
+    font-size: 1.5rem;
+    margin: 1.5rem;
+}
+
+@media (max-width: 330px) {
+    .form {
+        width: 91.5%;
+    }
+}
