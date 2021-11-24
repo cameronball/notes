@@ -1,12 +1,12 @@
 # Notes
 
-Notes is a minimalist, plain-text, fullstack web application for creating and keeping digital notes. Sign up for a new account [here](http://asem-notes.herokuapp.com/signup) and check it out.
+Notes is a minimalist, plain-text, fullstack web application for creating and keeping digital notes. Sign up for a new account and check it out.
 
-[![Notes screenshot](https://user-images.githubusercontent.com/25281974/128226626-4f72b058-1460-451f-9696-33237b837da0.png)](http://asem-notes.herokuapp.com)
+![Notes screenshot](https://user-images.githubusercontent.com/25281974/128226626-4f72b058-1460-451f-9696-33237b837da0.png)
 
 ## Description
 
-This is my first full-stack web application. It had to be a note-taking app because I'm constantly taking notes, but also because I've always wanted a free and simple note-taking application that I could quickly access and use online wherever I was. There's a lot more that is yet to be done (see below), but some of the features include: dark mode support, minimalist and simple design that is fully responsive.
+There's a lot more that is yet to be done (see below), but some of the features include: dark mode support, minimalist and simple design that is fully responsive.
 
 This is a MERN stack application. Here's a breakdown of the technologies used:
 
